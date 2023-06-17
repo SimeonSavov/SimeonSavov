@@ -11,7 +11,7 @@ I am a highly motivated individual with a passion for quality assurance. I am cu
 
 📫 You can reach me through the following channels:
 **Email**: simeonsavov21@gmail.com
-**LinkedIn**: linkedin.com/in/simeonsavov
+**LinkedIn**: www.linkedin.com/in/simeonsavov
 
 **Projects** - 
 I will be sharing my projects related to software testing and quality assurance on this GitHub profile. Stay tuned for updates and new projects.
