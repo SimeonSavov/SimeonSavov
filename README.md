@@ -1,36 +1,31 @@
-# 👋 Hi, I'm Simeon Savov (@SimeonSavov). Welcome to my GitHub profile!
+<h1 align="center">Hi 👋, I'm Simeon Savov</h1>
 
-## About Me
-I am a passionate Quality Assurance enthusiast with a strong educational foundation and a growing skill set. Here's a bit more about me:
+<h3 align="center">Graduated Manual QA | Automation QA Engineer Student @ SoftUni</h3>
 
-- 🎓 I recently completed my education in Manual Testing at Software University, where I gained valuable knowledge in:
-  - Writing effective test cases for web applications.
-  - Proficiently using bug tracking and management tools like Jira and TestRail.
-  - Collaborating with teams using tools like Confluence and Trello.
-  - Exploring testing techniques, levels, types, and black-box testing.
-  - Conducting API testing using Postman to send requests to web servers.
-  - Working with relational databases, including MySQL, and using SQL for querying.
-  - Automating manual test cases for websites with Selenium IDE.
-  - Managing version control with Git and GitHub.
-  - Familiarity with PostgreSQL.
+- 🌱 I’m currently learning **Automation QA courses, HTML and CSS**
 
-- 🚀 I am currently continuing my learning journey at Software University, focusing on becoming an Automation QA Engineer. I'll be diving into C# programming, unit testing for both Front-End and Back-End, and exploring automation scripting.
-  
-- 🤝 I'm eager to collaborate with individuals who are passionate about Quality Assurance.
+- 📫 How to reach me **simeonsavov21@gmail.com**
 
-## Projects
-I'm actively sharing projects related to software testing, quality assurance, and my journey in learning the C# programming language. Stay tuned for updates and new projects that showcase my progress in both manual and automated testing, as well as my coding exercises in C#. Feel free to explore and provide feedback!
+<div> <a href="https://www.linkedin.com/in/simeonsavov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/SimeonSavov" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/simeon.savovv" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:simeonsavov21@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/simeonsavov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simeonsavov/" height="30" width="40" /></a><a href="https://instagram.com/simeon.savovv" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="simeon.savovv" height="30" width="40" /></a></p>
 
-## Interests
-In addition to software testing, I have a keen interest in the following areas:
-- Continuous Learning.
-- Self-Development.
-- UX Testing.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Testing/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-## Contributions
-I actively seek opportunities to collaborate on projects and make meaningful contributions to the software testing community. Whether you have specific suggestions, innovative ideas, or exciting opportunities, please don't hesitate to reach out. Let's join forces to elevate software quality and enhance the user experience together.
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonSavov&layout=compact&theme=" alt=SimeonSavov />
 
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SimeonSavov&show_icons=true&locale=en&theme=" alt="SimeonSavov" /></p>
 
-
-
-
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SimeonSavov&theme=" alt="SimeonSavov" /></p>
