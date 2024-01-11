@@ -27,5 +27,3 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonSavov&layout=compact&theme=" alt=SimeonSavov />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=SimeonSavov&show_icons=true&locale=en&theme=" alt="SimeonSavov" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SimeonSavov&theme=" alt="SimeonSavov" /></p>
