@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Front-End Automation**
 
-- 👨‍💻 All of my projects are available at [in my GitHbub profile](in my GitHbub profile)
+- 👨‍💻 All of my projects are available at my **GitHub profile**
 
 - 💬 Ask me about **anything**
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:eu:5412f04b-9b9f-4bbb-a255-cbc1a2509ff8](https://acrobat.adobe.com/id/urn:aaid:sc:eu:5412f04b-9b9f-4bbb-a255-cbc1a2509ff8)
 
-- ⚡ Fun fact **I want to succeed in life**
+- ⚡ Fun fact -> **I want to succeed in life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
